@@ -1,0 +1,92 @@
+.canvas{
+	display: inline-block;
+	width: 303px;
+	height: 303px;
+	border: 1px solid #123456;
+	padding-left:0 !important;
+	padding-right:0 !important;
+}
+
+.canvas table tbody tr td{
+	padding:0 !important;
+	height:10px;
+	width:10px;
+}
+
+.canvas table tbody tr{
+	border-color:#fff;
+}
+
+.canvas-wrapper{
+	text-align: center;
+	margin-top: 50px;
+}
+
+.snake-point{
+	width: 10px;
+	height: 10px;
+	background: #123456;
+}
+
+.snake-food{
+	width:8px;
+	height:8px;
+	background: green;
+	padding:0;
+	margin:0;
+}
+
+.manage-tools-wrapper{
+	text-align: center;
+	margin-top: 10px;
+}
+
+.manage-tools{
+	border: 1px solid green;
+	min-height: 190px;
+}
+
+.m-tools-header{
+	margin-top:0;
+	font-size: 20px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-radius: 0;
+}
+
+.info-wrapper{
+	margin-top: 10px;
+}
+
+.game-scoreboard{
+	min-height: 100px;
+	border: 1px solid #123456;
+}
+
+.score-info{
+	font-size: 18px;
+	color:#5F5D5D;
+}
+
+#score{
+	color: #46A500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
